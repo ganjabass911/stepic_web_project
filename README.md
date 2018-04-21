@@ -27,6 +27,6 @@ sudo /etc/init.d/gunicorn restart
 Тогда при решении очередного задания необходимые действия будут сведены к минимуму:
 
 ```bash
-git clone https://github.com/your_account/stepic_web_project.git /home/box/web
+git clone https://github.com/ganjabass911/stepic_web_project.git /home/box/web
 bash /home/box/web/init.sh
 ```
